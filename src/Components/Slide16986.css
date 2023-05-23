@@ -1,0 +1,215 @@
+.player-name2,
+.player-name3,
+.player-name4,
+.player-name5,
+.player-name6 {
+  position: absolute;
+  top: 176.78px;
+  left: 358px;
+  display: flex;
+  align-items: center;
+  width: 425px;
+  height: 87px;
+}
+.player-name3,
+.player-name4,
+.player-name5,
+.player-name6 {
+  top: 336.78px;
+}
+.player-name4,
+.player-name5,
+.player-name6 {
+  top: 496.78px;
+}
+.player-name5,
+.player-name6 {
+  top: 656.78px;
+}
+.player-name6 {
+  top: 816.78px;
+}
+.slide-169-86-child,
+.slide-169-86-item {
+  position: absolute;
+  top: 161px;
+  left: 204px;
+  width: 117.72px;
+  height: 117.72px;
+}
+.slide-169-86-item {
+  top: 321.02px;
+}
+.slide-169-86-child1,
+.slide-169-86-child2,
+.slide-169-86-inner {
+  position: absolute;
+  top: 481.04px;
+  left: 204px;
+  width: 117.72px;
+  height: 117.72px;
+}
+.slide-169-86-child1,
+.slide-169-86-child2 {
+  top: 641.06px;
+}
+.slide-169-86-child2 {
+  top: 801.08px;
+}
+.slide-169-86-child3,
+.slide-169-86-child4,
+.slide-169-86-child5 {
+  position: absolute;
+  top: 113px;
+  left: 1100px;
+  border-radius: var(--br-181xl);
+  border: 8px solid var(--color-black);
+  box-sizing: border-box;
+  width: 673px;
+  height: 158px;
+}
+.slide-169-86-child4,
+.slide-169-86-child5 {
+  top: 377px;
+  left: 1099px;
+}
+.slide-169-86-child5 {
+  top: 641px;
+  width: 413px;
+}
+.category,
+.obtrusive,
+.obtrusive1 {
+  position: absolute;
+  top: 162px;
+  left: 1312px;
+  font-size: var(--font-size-41xl);
+  color: var(--color-silver);
+  text-align: center;
+}
+.obtrusive,
+.obtrusive1 {
+  top: 426px;
+  left: 1309px;
+}
+.obtrusive1 {
+  top: 690px;
+  left: 1186px;
+}
+.vector-icon {
+  position: absolute;
+  height: 8.43%;
+  width: 4.17%;
+  top: 61.67%;
+  right: 11.67%;
+  bottom: 29.91%;
+  left: 84.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.slide-169-86-child6,
+.slide-169-86-child7 {
+  position: absolute;
+  top: 877px;
+  left: 1100px;
+  border-radius: var(--br-65xl);
+  background-color: var(--color-mediumpurple);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 269px;
+  height: 114px;
+}
+.slide-169-86-child7 {
+  left: 1459px;
+  background-color: var(--color-hotpink);
+  width: 313px;
+}
+.invite,
+.play {
+  position: absolute;
+  top: calc(50% + 371px);
+  left: calc(50% + 212px);
+  font-size: var(--font-size-36xl);
+  font-family: var(--font-frankfurt);
+  color: var(--color-white);
+  display: inline-block;
+  width: 144px;
+  height: 31px;
+  -webkit-text-stroke: 3px #000;
+}
+.invite {
+  left: calc(50% + 578px);
+  width: 174px;
+}
+.slide-169-86-child8,
+.slide-169-86-child9 {
+  position: absolute;
+  top: 924px;
+  left: 1119px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 6px;
+  height: 5px;
+}
+.slide-169-86-child9 {
+  left: 1478px;
+}
+.slide-169-86-child10,
+.slide-169-86-child11 {
+  position: absolute;
+  top: 933.79px;
+  left: 1112.26px;
+  width: 47.3px;
+  height: 47.24px;
+}
+.slide-169-86-child11 {
+  left: 1471.26px;
+}
+.slide-169-86-child12 {
+  position: absolute;
+  top: 961px;
+  left: 24px;
+  border-radius: var(--br-65xl);
+  background-color: var(--color-mediumpurple);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 237px;
+  height: 101px;
+}
+.back4 {
+  position: absolute;
+  top: 998px;
+  left: 94px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-frankfurt);
+  color: var(--color-white);
+  -webkit-text-stroke: 3px #000;
+}
+.slide-169-86-child13 {
+  position: absolute;
+  top: 1002px;
+  left: 41px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 5px;
+  height: 5px;
+}
+.slide-169-86-child14 {
+  position: absolute;
+  top: 1011.5px;
+  left: 34.82px;
+  width: 41.76px;
+  height: 41.7px;
+}
+.slide-169-86 {
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-27xl);
+  color: var(--color-black);
+  font-family: var(--font-hiruko);
+}

@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Frankfurt:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hiruko:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Night+in+Tokyo:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-frankfurt: Frankfurt;
+  --font-hiruko: Hiruko;
+  --font-night-in-tokyo: "Night in Tokyo";
+
+  /* font sizes */
+  --font-size-21xl: 40px;
+  --font-size-31xl: 50px;
+  --font-size-36xl: 55px;
+  --font-size-41xl: 60px;
+  --font-size-5xl: 24px;
+  --font-size-109xl: 128px;
+  --font-size-45xl: 64px;
+  --font-size-131xl: 150px;
+  --font-size-27xl: 46px;
+  --font-size-111xl: 130px;
+  --font-size-91xl: 110px;
+  --font-size-17xl: 36px;
+  --font-size-71xl: 90px;
+
+  /* Colors */
+  --color-lavenderblush: #fff1fa;
+  --color-white: #fff;
+  --color-mediumpurple: #9293ff;
+  --color-black: #000;
+  --color-hotpink: #ff8dd7;
+  --color-silver: #b5b5b5;
+  --color-gainsboro: #d9d9d9;
+  --color-red: #cf0000;
+
+  /* border radiuses */
+  --br-65xl: 84px;
+  --br-181xl: 200px;
+  --br-15xl: 34px;
+  --br-xl: 20px;
+  --br-8xs: 5px;
+  --br-13xl: 32px;
+  --br-xs: 12px;
+  --br-2xl: 21px;
+  --br-21xl: 40px;
+  --br-29xl: 48px;
+}

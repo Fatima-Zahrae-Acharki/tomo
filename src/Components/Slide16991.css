@@ -1,0 +1,209 @@
+.profile {
+  position: absolute;
+  top: 71px;
+  left: 161px;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-frankfurt);
+  color: var(--color-mediumpurple);
+  text-align: left;
+  -webkit-text-stroke: 3px #000;
+}
+.mask-group-icon,
+.slide-169-91-child {
+  position: absolute;
+  top: 262px;
+  left: 292px;
+  width: 216px;
+  height: 216px;
+}
+.slide-169-91-child {
+  border-radius: 50%;
+  border: 5px solid var(--color-black);
+  box-sizing: border-box;
+}
+.slide-169-91-item {
+  position: absolute;
+  top: 290px;
+  left: 355px;
+  border-radius: 50%;
+  background-color: #232323;
+  width: 85px;
+  height: 85px;
+}
+.level-17,
+.player-name {
+  position: absolute;
+  top: 575px;
+  left: 237px;
+}
+.level-17 {
+  top: 686px;
+  left: 283px;
+}
+.rectangle-div,
+.slide-169-91-inner {
+  position: absolute;
+  top: 797px;
+  left: calc(50% - 901px);
+  border-radius: var(--br-15xl);
+  background-color: var(--color-gainsboro);
+  width: 683px;
+  height: 40px;
+}
+.rectangle-div {
+  background-color: var(--color-black);
+  width: 424px;
+}
+.xp,
+.xp1 {
+  position: absolute;
+  top: 847px;
+  left: 110px;
+  font-size: var(--font-size-5xl);
+}
+.xp1 {
+  left: 616px;
+}
+.aesthetic-wallpaper1-7-1 {
+  position: absolute;
+  top: 34px;
+  left: 865px;
+  width: 1117px;
+  height: 1020px;
+  object-fit: cover;
+}
+.or {
+  position: absolute;
+  top: 716px;
+  left: 1383px;
+}
+.slide-169-91-child1 {
+  position: absolute;
+  top: 518px;
+  left: 1238px;
+  border-radius: var(--br-65xl);
+  background-color: var(--color-mediumpurple);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 372px;
+  height: 114px;
+}
+.change {
+  position: absolute;
+  top: calc(50% + 19px);
+  left: calc(50% + 357px);
+  font-size: var(--font-size-36xl);
+  font-family: var(--font-frankfurt);
+  color: var(--color-white);
+  text-align: left;
+  -webkit-text-stroke: 3px #000;
+}
+.group-icon {
+  position: absolute;
+  top: 564.28px;
+  left: 1250.26px;
+  width: 48.27px;
+  height: 57.75px;
+}
+.slide-169-91-child2 {
+  position: absolute;
+  top: 315px;
+  left: 1087px;
+  border-radius: var(--br-181xl);
+  border: 8px solid var(--color-black);
+  box-sizing: border-box;
+  width: 673px;
+  height: 109px;
+}
+.change-name {
+  position: absolute;
+  top: 345px;
+  left: 1267px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-silver);
+}
+.slide-169-91-child3 {
+  position: absolute;
+  top: 817px;
+  left: 1144px;
+  border-radius: var(--br-65xl);
+  background-color: var(--color-hotpink);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 559px;
+  height: 114px;
+}
+.remove-account {
+  position: absolute;
+  top: calc(50% + 319px);
+  left: calc(50% + 254px);
+  font-size: 48px;
+  font-family: var(--font-frankfurt);
+  color: var(--color-white);
+  text-align: left;
+  -webkit-text-stroke: 3px #000;
+}
+.ellipse-div {
+  position: absolute;
+  top: 864px;
+  left: 1163px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 6px;
+  height: 5px;
+}
+.slide-169-91-child4 {
+  position: absolute;
+  top: 873.79px;
+  left: 1156.26px;
+  width: 47.3px;
+  height: 47.24px;
+}
+.slide-169-91-child5 {
+  position: absolute;
+  top: 928px;
+  left: 59px;
+  border-radius: var(--br-65xl);
+  background-color: var(--color-mediumpurple);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 237px;
+  height: 101px;
+}
+.back {
+  position: absolute;
+  top: 965px;
+  left: 129px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-frankfurt);
+  color: var(--color-white);
+  text-align: left;
+  -webkit-text-stroke: 3px #000;
+}
+.slide-169-91-child6 {
+  position: absolute;
+  top: 969px;
+  left: 76px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 5px;
+  height: 5px;
+}
+.slide-169-91-child7 {
+  position: absolute;
+  top: 978.5px;
+  left: 69.82px;
+  width: 41.76px;
+  height: 41.7px;
+}
+.slide-169-91 {
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-black);
+  font-family: var(--font-hiruko);
+}

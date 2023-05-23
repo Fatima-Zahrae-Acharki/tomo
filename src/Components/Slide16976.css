@@ -1,0 +1,32 @@
+.anime-character1,
+.character-name {
+  position: absolute;
+  top: 111px;
+  left: 300px;
+  -webkit-text-stroke: 3px #000;
+}
+.character-name {
+  top: 501px;
+  left: 493px;
+  font-size: var(--font-size-91xl);
+  color: var(--color-white);
+}
+.pngitem-5332933-1-icon {
+  position: absolute;
+  top: 579px;
+  left: 58px;
+  width: 484px;
+  height: 522px;
+  object-fit: cover;
+}
+.slide-169-76 {
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-131xl);
+  color: var(--color-mediumpurple);
+  font-family: var(--font-frankfurt);
+}

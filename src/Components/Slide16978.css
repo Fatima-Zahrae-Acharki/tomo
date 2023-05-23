@@ -1,0 +1,39 @@
+.aesthetic-wallpaper1-5-2 {
+  position: absolute;
+  top: 262px;
+  left: 622px;
+  width: 733px;
+  height: 510px;
+  object-fit: cover;
+}
+.is-the-obtrusive,
+.player1 {
+  position: absolute;
+  top: 501px;
+  left: 776px;
+  -webkit-text-stroke: 3px #000;
+}
+.is-the-obtrusive {
+  top: 879px;
+  left: 587px;
+  font-size: var(--font-size-71xl);
+}
+.manabu-1-icon {
+  position: absolute;
+  top: 112px;
+  left: 0;
+  width: 830px;
+  height: 1107px;
+  object-fit: cover;
+}
+.slide-169-78 {
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-91xl);
+  color: var(--color-white);
+  font-family: var(--font-frankfurt);
+}

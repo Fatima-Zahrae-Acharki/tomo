@@ -1,0 +1,124 @@
+.slide-169-87-child,
+.slide-169-87-child1,
+.slide-169-87-inner,
+.slide-169-87-item {
+  position: absolute;
+  top: 65px;
+  left: 190px;
+  border-radius: var(--br-181xl);
+  border: 8px solid var(--color-black);
+  box-sizing: border-box;
+  width: 672px;
+  height: 129px;
+}
+.slide-169-87-child1,
+.slide-169-87-inner,
+.slide-169-87-item {
+  top: 268px;
+}
+.slide-169-87-child1,
+.slide-169-87-inner {
+  top: 471px;
+  left: 191px;
+}
+.slide-169-87-child1 {
+  top: 674px;
+  left: 192px;
+}
+.email {
+  position: absolute;
+  top: 100px;
+  left: 455px;
+}
+.password1,
+.username {
+  position: absolute;
+  top: 303px;
+  left: 393px;
+}
+.password1 {
+  top: 510px;
+  left: 412px;
+}
+.confirm-password {
+  position: absolute;
+  top: 709px;
+  left: 293px;
+}
+.slide-169-87-child2,
+.slide-169-87-child3 {
+  position: absolute;
+  top: 872px;
+  left: 190px;
+  border-radius: var(--br-65xl);
+  background-color: var(--color-mediumpurple);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 367px;
+  height: 114px;
+}
+.slide-169-87-child3 {
+  left: 600px;
+  background-color: var(--color-hotpink);
+  width: 262px;
+}
+.back3,
+.register {
+  position: absolute;
+  top: calc(50% + 371px);
+  left: calc(50% - 704px);
+  font-size: var(--font-size-36xl);
+  font-family: var(--font-frankfurt);
+  color: var(--color-white);
+  text-align: left;
+  -webkit-text-stroke: 3px #000;
+}
+.back3 {
+  top: calc(50% + 366px);
+  left: calc(50% - 299px);
+}
+.slide-169-87-child4,
+.slide-169-87-child5 {
+  position: absolute;
+  top: 924px;
+  left: 209px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 6px;
+  height: 5px;
+}
+.slide-169-87-child5 {
+  top: 919px;
+  left: 619px;
+}
+.slide-169-87-child6,
+.slide-169-87-child7 {
+  position: absolute;
+  top: 933.79px;
+  left: 202.26px;
+  width: 47.3px;
+  height: 47.24px;
+}
+.slide-169-87-child7 {
+  top: 928.79px;
+  left: 612.26px;
+}
+.jiraiya-free-download-png-hd-1-icon {
+  position: absolute;
+  top: 0;
+  left: 1187px;
+  width: 733px;
+  height: 1097px;
+  object-fit: cover;
+}
+.slide-169-87 {
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-silver);
+  font-family: var(--font-hiruko);
+}

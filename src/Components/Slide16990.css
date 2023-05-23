@@ -1,0 +1,109 @@
+.tomodachi-game {
+  position: absolute;
+  top: 65px;
+  left: 398px;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-frankfurt);
+  color: var(--color-mediumpurple);
+  text-align: left;
+  -webkit-text-stroke: 3px #000;
+}
+.slide-169-90-child {
+  position: absolute;
+  top: 284px;
+  left: 791px;
+  border-radius: 50%;
+  width: 342px;
+  height: 342px;
+  object-fit: cover;
+}
+.level-171,
+.player-name1 {
+  position: absolute;
+  top: 643px;
+  left: 796px;
+}
+.level-171 {
+  top: 754px;
+  left: 845px;
+}
+.slide-169-90-inner,
+.slide-169-90-item {
+  position: absolute;
+  top: 865px;
+  left: calc(50% - 342px);
+  border-radius: var(--br-15xl);
+  background-color: var(--color-gainsboro);
+  width: 683px;
+  height: 40px;
+}
+.slide-169-90-inner {
+  background-color: var(--color-black);
+  width: 424px;
+}
+.xp2,
+.xp3 {
+  position: absolute;
+  top: 915px;
+  left: 669px;
+  font-size: var(--font-size-5xl);
+}
+.xp3 {
+  left: 1175px;
+}
+.manabu-anime-1-icon {
+  position: absolute;
+  top: 282px;
+  left: 1455px;
+  width: 472px;
+  height: 781px;
+  object-fit: cover;
+}
+.slide-169-90-child1 {
+  position: absolute;
+  top: 929px;
+  left: 68px;
+  border-radius: var(--br-65xl);
+  background-color: var(--color-mediumpurple);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 237px;
+  height: 101px;
+}
+.back1 {
+  position: absolute;
+  top: 966px;
+  left: 138px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-frankfurt);
+  color: var(--color-white);
+  text-align: left;
+  -webkit-text-stroke: 3px #000;
+}
+.slide-169-90-child2 {
+  position: absolute;
+  top: 970px;
+  left: 85px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 5px;
+  height: 5px;
+}
+.slide-169-90-child3 {
+  position: absolute;
+  top: 979.5px;
+  left: 78.82px;
+  width: 41.76px;
+  height: 41.7px;
+}
+.slide-169-90 {
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-black);
+  font-family: var(--font-hiruko);
+}

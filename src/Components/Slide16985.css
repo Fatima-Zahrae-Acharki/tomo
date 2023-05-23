@@ -1,0 +1,110 @@
+.slide-169-85-child,
+.slide-169-85-item {
+  position: absolute;
+  top: 220px;
+  left: 1058px;
+  border-radius: var(--br-181xl);
+  border: 8px solid var(--color-black);
+  box-sizing: border-box;
+  width: 673px;
+  height: 158px;
+}
+.slide-169-85-item {
+  top: 484px;
+  left: 1057px;
+}
+.email1 {
+  position: absolute;
+  top: 269px;
+  left: 1322px;
+}
+.dont-have-an,
+.password2 {
+  position: absolute;
+  top: 533px;
+  left: 1277px;
+}
+.dont-have-an {
+  top: 965px;
+  left: 1091px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+}
+.slide-169-85-child1,
+.slide-169-85-inner {
+  position: absolute;
+  top: 769px;
+  left: 1408px;
+  border-radius: var(--br-65xl);
+  background-color: var(--color-hotpink);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 313px;
+  height: 114px;
+}
+.slide-169-85-child1 {
+  left: 1058px;
+  background-color: var(--color-mediumpurple);
+}
+.back5,
+.login {
+  position: absolute;
+  top: calc(50% + 263px);
+  font-size: var(--font-size-36xl);
+  font-family: var(--font-frankfurt);
+  color: var(--color-white);
+  text-align: left;
+  -webkit-text-stroke: 3px #000;
+}
+.login {
+  left: calc(50% + 528px);
+  display: inline-block;
+  width: 174px;
+  height: 31px;
+}
+.back5 {
+  left: calc(50% + 185px);
+}
+.slide-169-85-child2,
+.slide-169-85-child3 {
+  position: absolute;
+  top: 816px;
+  left: 1427px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 6px;
+  height: 5px;
+}
+.slide-169-85-child3 {
+  left: 1077px;
+}
+.slide-169-85-child4,
+.slide-169-85-child5 {
+  position: absolute;
+  top: 825.79px;
+  left: 1420.26px;
+  width: 47.3px;
+  height: 47.24px;
+}
+.slide-169-85-child5 {
+  left: 1070.26px;
+}
+.anime-png-images-1-icon {
+  position: absolute;
+  top: 183px;
+  left: 0;
+  width: 897px;
+  height: 897px;
+  object-fit: cover;
+}
+.slide-169-85 {
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-silver);
+  font-family: var(--font-hiruko);
+}

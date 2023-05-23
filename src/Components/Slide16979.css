@@ -1,0 +1,39 @@
+.aesthetic-wallpaper1-4-4 {
+  position: absolute;
+  top: 262px;
+  left: 622px;
+  width: 738px;
+  height: 514px;
+  object-fit: cover;
+}
+.is-not-the,
+.player {
+  position: absolute;
+  top: 501px;
+  left: 776px;
+  -webkit-text-stroke: 3px #000;
+}
+.is-not-the {
+  top: 879px;
+  left: 485px;
+  font-size: var(--font-size-71xl);
+}
+.pngwing-3-icon {
+  position: absolute;
+  top: 419px;
+  left: 1360px;
+  width: 620px;
+  height: 661px;
+  object-fit: cover;
+}
+.slide-169-79 {
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-91xl);
+  color: var(--color-white);
+  font-family: var(--font-frankfurt);
+}

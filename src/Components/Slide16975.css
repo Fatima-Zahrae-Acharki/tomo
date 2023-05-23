@@ -1,0 +1,147 @@
+.player-name37,
+.player-name38 {
+  position: absolute;
+  top: 135.78px;
+  left: 358px;
+}
+.player-name38 {
+  top: 138.78px;
+  left: 1289px;
+}
+.player-name39,
+.player-name40 {
+  position: absolute;
+  top: 295.78px;
+  left: 358px;
+}
+.player-name40 {
+  top: 298.78px;
+  left: 1289px;
+}
+.player-name41,
+.player-name42 {
+  position: absolute;
+  top: 455.78px;
+  left: 358px;
+}
+.player-name42 {
+  top: 458.78px;
+  left: 1289px;
+}
+.player-name43,
+.player-name44 {
+  position: absolute;
+  top: 615.78px;
+  left: 358px;
+}
+.player-name44 {
+  top: 618.78px;
+  left: 1289px;
+}
+.player-name45,
+.player-name46 {
+  position: absolute;
+  top: 775.78px;
+  left: 358px;
+}
+.player-name46 {
+  top: 778.78px;
+  left: 1289px;
+}
+.loading {
+  position: absolute;
+  top: 895px;
+  left: calc(50% - 213px);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 426px;
+  height: 87px;
+}
+.slide-169-75-child {
+  position: absolute;
+  top: 100px;
+  left: 204px;
+  width: 117.72px;
+  height: 117.72px;
+}
+.slide-169-75-child1,
+.slide-169-75-inner,
+.slide-169-75-item {
+  position: absolute;
+  top: 102.76px;
+  left: 1135.61px;
+  width: 117.72px;
+  height: 117.72px;
+}
+.slide-169-75-child1,
+.slide-169-75-inner {
+  top: 260.02px;
+  left: 204px;
+}
+.slide-169-75-child1 {
+  top: 262.78px;
+  left: 1135.61px;
+}
+.slide-169-75-child2,
+.slide-169-75-child3,
+.slide-169-75-child4 {
+  position: absolute;
+  top: 420.04px;
+  left: 204px;
+  width: 117.72px;
+  height: 117.72px;
+}
+.slide-169-75-child3,
+.slide-169-75-child4 {
+  top: 422.8px;
+  left: 1135.61px;
+}
+.slide-169-75-child4 {
+  top: 580.06px;
+  left: 204px;
+}
+.slide-169-75-child5,
+.slide-169-75-child6,
+.slide-169-75-child7 {
+  position: absolute;
+  top: 582.82px;
+  left: 1135.61px;
+  width: 117.72px;
+  height: 117.72px;
+}
+.slide-169-75-child6,
+.slide-169-75-child7 {
+  top: 740.08px;
+  left: 204px;
+}
+.slide-169-75-child7 {
+  top: 742.84px;
+  left: 1135.61px;
+}
+.slide-169-75-child8,
+.slide-169-75-child9 {
+  position: absolute;
+  top: 982px;
+  left: 191px;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-gainsboro);
+  width: 1537px;
+  height: 44px;
+}
+.slide-169-75-child9 {
+  background-color: var(--color-black);
+  width: 644px;
+}
+.slide-169-75 {
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-27xl);
+  color: var(--color-black);
+  font-family: var(--font-hiruko);
+}

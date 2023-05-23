@@ -1,0 +1,66 @@
+.tomodachi-game2 {
+  position: absolute;
+  top: 437px;
+  left: 302px;
+  font-size: var(--font-size-131xl);
+  color: var(--color-mediumpurple);
+  -webkit-text-stroke: 3px #000;
+}
+.slide-169-88-child {
+  position: absolute;
+  top: 759px;
+  left: 763px;
+  border-radius: var(--br-65xl);
+  background-color: var(--color-hotpink);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 395px;
+  height: 168px;
+}
+.anime-version,
+.start {
+  position: absolute;
+  top: 820px;
+  left: 868px;
+  -webkit-text-stroke: 3px #000;
+}
+.anime-version {
+  top: 560px;
+  left: 1402px;
+  font-family: var(--font-night-in-tokyo);
+}
+.slide-169-88-item {
+  position: absolute;
+  top: 828px;
+  left: 791px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 8px;
+  height: 8px;
+}
+.slide-169-88-inner {
+  position: absolute;
+  top: 843px;
+  left: 781px;
+  width: 69.46px;
+  height: 69.37px;
+}
+.kindpng-2246220-1-icon {
+  position: absolute;
+  top: 560px;
+  left: 68px;
+  width: 578px;
+  height: 485px;
+  object-fit: cover;
+}
+.slide-169-88 {
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-frankfurt);
+}

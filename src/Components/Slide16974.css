@@ -1,0 +1,214 @@
+.group-child20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-13xl) var(--br-13xl) var(--br-xs) var(--br-xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 63.6px;
+  height: 44.87px;
+}
+.group-child21 {
+  position: absolute;
+  top: 19.9px;
+  left: 13.66px;
+  border-radius: var(--br-xl) var(--br-xl) var(--br-8xs) var(--br-8xs);
+  background-color: var(--color-black);
+  width: 36.29px;
+  height: 26.92px;
+}
+.rectangle-parent9,
+.slide-169-74-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 63.6px;
+  height: 46.82px;
+}
+.slide-169-74-inner {
+  top: 75px;
+  left: 1779px;
+}
+.slide-169-74-child {
+  position: absolute;
+  top: 67px;
+  left: 73px;
+  width: 128px;
+  height: 128px;
+}
+.div17,
+.div18 {
+  position: absolute;
+  top: 78px;
+  left: calc(50% + 661px);
+  font-size: var(--font-size-27xl);
+  text-align: center;
+}
+.div18 {
+  left: calc(50% + 428px);
+}
+.iconsaxlinearcrown1 {
+  position: absolute;
+  top: 64px;
+  left: 1470px;
+  width: 76px;
+  height: 74px;
+  overflow: hidden;
+}
+.lvl-171,
+.name1 {
+  position: absolute;
+  top: 80px;
+  left: 231px;
+  font-size: var(--font-size-17xl);
+}
+.lvl-171 {
+  top: 118px;
+}
+.slide-169-74-child1,
+.slide-169-74-item {
+  position: absolute;
+  top: 163px;
+  left: 227px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-gainsboro);
+  width: 262px;
+  height: 15px;
+}
+.slide-169-74-child1 {
+  background-color: var(--color-black);
+  width: 139px;
+}
+.aesthetic-wallpaper1-4-3,
+.aesthetic-wallpaper1-4-41,
+.aesthetic-wallpaper1-5-21 {
+  position: absolute;
+  top: 371px;
+  left: 50px;
+  width: 484px;
+  height: 337px;
+  object-fit: cover;
+}
+.aesthetic-wallpaper1-4-41,
+.aesthetic-wallpaper1-5-21 {
+  left: 1386px;
+}
+.aesthetic-wallpaper1-5-21 {
+  left: 718px;
+}
+.slide-169-74-child2 {
+  position: absolute;
+  top: 708px;
+  left: 763px;
+  border-radius: var(--br-65xl);
+  background-color: var(--color-hotpink);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 395px;
+  height: 168px;
+}
+.find,
+.join1,
+.make-game {
+  position: absolute;
+  top: 769px;
+  left: 886px;
+  font-family: var(--font-frankfurt);
+  color: var(--color-white);
+  -webkit-text-stroke: 3px #000;
+}
+.find,
+.make-game {
+  top: 764px;
+  left: 101px;
+}
+.find {
+  left: 1551px;
+}
+.slide-169-74-child3 {
+  position: absolute;
+  top: 777px;
+  left: 791px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 8px;
+  height: 8px;
+}
+.slide-169-74-child4 {
+  position: absolute;
+  top: 792px;
+  left: 781px;
+  width: 69.46px;
+  height: 69.37px;
+}
+.join-1-icon,
+.pen-1-icon,
+.searching-1-icon {
+  position: absolute;
+  top: 498px;
+  left: 1564px;
+  width: 128px;
+  height: 128px;
+  object-fit: cover;
+}
+.join-1-icon,
+.pen-1-icon {
+  top: 486px;
+  left: 869px;
+  width: 152px;
+  height: 152px;
+}
+.pen-1-icon {
+  top: 500px;
+  left: 217px;
+  width: 123px;
+  height: 123px;
+}
+.slide-169-74-child5 {
+  position: absolute;
+  top: 937px;
+  left: 846px;
+  border-radius: var(--br-65xl);
+  background-color: var(--color-mediumpurple);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 237px;
+  height: 101px;
+}
+.back8 {
+  position: absolute;
+  top: 974px;
+  left: 916px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-frankfurt);
+  color: var(--color-white);
+  -webkit-text-stroke: 3px #000;
+}
+.slide-169-74-child6 {
+  position: absolute;
+  top: 978px;
+  left: 863px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 5px;
+  height: 5px;
+}
+.slide-169-74-child7 {
+  position: absolute;
+  top: 987.5px;
+  left: 856.82px;
+  width: 41.76px;
+  height: 41.7px;
+}
+.slide-169-74 {
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-hiruko);
+}

@@ -1,0 +1,131 @@
+.what-is-the {
+  position: absolute;
+  top: 76px;
+  left: 479px;
+  font-size: var(--font-size-91xl);
+  -webkit-text-stroke: 3px #000;
+}
+.slide-169-82-child,
+.slide-169-82-child1,
+.slide-169-82-inner,
+.slide-169-82-item {
+  position: absolute;
+  top: 225px;
+  left: 762px;
+  border-radius: var(--br-65xl);
+  background-color: var(--color-hotpink);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 395px;
+  height: 168px;
+}
+.slide-169-82-child1,
+.slide-169-82-inner,
+.slide-169-82-item {
+  top: 433px;
+  background-color: var(--color-mediumpurple);
+}
+.slide-169-82-child1,
+.slide-169-82-inner {
+  top: 641px;
+  background-color: var(--color-hotpink);
+}
+.slide-169-82-child1 {
+  top: 849px;
+  background-color: var(--color-mediumpurple);
+}
+.sub,
+.sub1,
+.sub2,
+.sub3 {
+  position: absolute;
+  top: 286px;
+  left: 902px;
+  -webkit-text-stroke: 3px #000;
+}
+.sub1,
+.sub2,
+.sub3 {
+  top: 494px;
+}
+.sub2,
+.sub3 {
+  top: 707px;
+}
+.sub3 {
+  top: 910px;
+}
+.slide-169-82-child2,
+.slide-169-82-child3,
+.slide-169-82-child4,
+.slide-169-82-child5 {
+  position: absolute;
+  top: 294px;
+  left: 790px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 8px;
+  height: 8px;
+}
+.slide-169-82-child3,
+.slide-169-82-child4,
+.slide-169-82-child5 {
+  top: 502px;
+}
+.slide-169-82-child4,
+.slide-169-82-child5 {
+  top: 710px;
+}
+.slide-169-82-child5 {
+  top: 918px;
+}
+.slide-169-82-child6 {
+  position: absolute;
+  top: 309px;
+  left: 780px;
+  width: 69.46px;
+  height: 69.37px;
+}
+.slide-169-82-child7,
+.slide-169-82-child8,
+.slide-169-82-child9 {
+  position: absolute;
+  top: 517px;
+  left: 780px;
+  width: 69.46px;
+  height: 69.37px;
+}
+.slide-169-82-child8,
+.slide-169-82-child9 {
+  top: 725px;
+}
+.slide-169-82-child9 {
+  top: 933px;
+}
+.ayanami-rei-free-download-png-icon {
+  position: absolute;
+  top: 118px;
+  left: 1440px;
+  width: 426px;
+  height: 965px;
+  object-fit: cover;
+}
+.gasai-anime-female-yuno-hd-ima-icon {
+  position: absolute;
+  top: 225px;
+  left: 0;
+  width: 575px;
+  height: 864px;
+  object-fit: cover;
+}
+.slide-169-82 {
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-frankfurt);
+}

@@ -1,0 +1,132 @@
+.div1 {
+  position: absolute;
+  top: 164px;
+  left: 133px;
+  font-size: var(--font-size-111xl);
+  font-family: var(--font-frankfurt);
+  color: var(--color-white);
+  -webkit-text-stroke: 3px #000;
+}
+.iconsaxlinearcrown {
+  position: absolute;
+  top: 90px;
+  left: 116px;
+  width: 76px;
+  height: 74px;
+  overflow: hidden;
+}
+.div2,
+.div3,
+.div4,
+.div5 {
+  position: absolute;
+  top: 329px;
+  left: 120px;
+  font-size: var(--font-size-111xl);
+  font-family: var(--font-frankfurt);
+  color: var(--color-white);
+  -webkit-text-stroke: 3px #000;
+}
+.div3,
+.div4,
+.div5 {
+  top: 494px;
+}
+.div4,
+.div5 {
+  top: 659px;
+  left: 109px;
+}
+.div5 {
+  top: 824px;
+  left: 133px;
+}
+.player-name12 {
+  position: absolute;
+  top: 179px;
+  left: 305px;
+  display: flex;
+  align-items: center;
+  width: 271px;
+  height: 52px;
+}
+.player-name13,
+.points {
+  position: absolute;
+  top: 206px;
+  left: 1419px;
+}
+.player-name13 {
+  top: 346px;
+  left: 305px;
+  display: flex;
+  align-items: center;
+  width: 271px;
+  height: 52px;
+}
+.player-name14,
+.points1 {
+  position: absolute;
+  top: 373px;
+  left: 1419px;
+}
+.player-name14 {
+  top: 513px;
+  left: 305px;
+  display: flex;
+  align-items: center;
+  width: 271px;
+  height: 53px;
+}
+.player-name15,
+.points2 {
+  position: absolute;
+  top: 540px;
+  left: 1419px;
+}
+.player-name15 {
+  top: 681px;
+  left: 305px;
+  display: flex;
+  align-items: center;
+  width: 271px;
+  height: 52px;
+}
+.player-name16,
+.points3 {
+  position: absolute;
+  top: 708px;
+  left: 1419px;
+}
+.player-name16 {
+  top: 848px;
+  left: 305px;
+  display: flex;
+  align-items: center;
+  width: 271px;
+  height: 52px;
+}
+.points4 {
+  position: absolute;
+  top: 875px;
+  left: 1419px;
+}
+.pngitem-5289545-1-icon {
+  position: absolute;
+  top: 179px;
+  left: 613px;
+  width: 769px;
+  height: 922px;
+  object-fit: cover;
+}
+.slide-169-83 {
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-hiruko);
+}
